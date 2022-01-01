@@ -29,7 +29,7 @@
 <br />
 
 ### 📕 GitHub Stats
-<img align="left" alt="AlphaInfamous GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaInfamous&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<img align="left" alt="AlphaInfamous GitHub Stats" src="https://github-stats-alpha-one.vercel.app/api?username=AlphaInfamous&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 
 
 [twitter]: https://twitter.com/iAlphaInfamous
