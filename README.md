@@ -1,8 +1,8 @@
+### [![wakatime](https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg)](https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876)
 ### [![Twitter Follow](https://img.shields.io/twitter/follow/iAlphaInfamous?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAlphaInfamous&screen_name=iAlphaInfamous)
 
 ### Hi there, I'm AlphaInfamous - 👋 
 
-- [![wakatime](https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg)](https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876)
 - 🌱 I’m currently learning everything i get my hands on🤣
 - 🥅 2020 Goals: Aws & Azure certifications
 
