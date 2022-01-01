@@ -1,6 +1,6 @@
 ### <p align="center">
 <a href="https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876">
-    <img alt="Total time coded since Jan 1 2022" src="https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg" />
+    <img src="https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg" />
 </a>
 <br />
 </p>
