@@ -2,6 +2,7 @@
 
 ### Hi there, I'm AlphaInfamous - 👋 
 
+- [![wakatime](https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg)](https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876)
 - 🌱 I’m currently learning everything i get my hands on🤣
 - 🥅 2020 Goals: Aws & Azure certifications
 
