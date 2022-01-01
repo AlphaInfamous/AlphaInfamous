@@ -30,7 +30,7 @@
 
 ### 📕 Latest Stats
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="AlphaInfamous GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaInfamous&count_private=true&show_icons=true&hide_border=true" />
 
