@@ -12,7 +12,6 @@
 
 - 🌱 I’m currently learning everything i get my hands on🤣
 - 🥅 2020 Goals: Aws & Azure certifications, Bringing site online.
-- Coming Soon: <a href="https://www.cronusinc.org">CronusInc.org</a>
 
 ### Connect with me:
 
