@@ -11,8 +11,12 @@
 ### Hi there, I'm AlphaInfamous - 👋 
 
 - 🌱 I’m currently learning everything i get my hands on🤣
+<<<<<<< HEAD
 - 🥅 2022 Goals: Aws & Azure certifications, Bringing site online.
 - Coming Soon: <a href="https://www.cronusinc.org">CronusInc.org</a>
+=======
+- 🥅 2020 Goals: Aws & Azure certifications, Bringing site online.
+>>>>>>> 4d25044dc7cbc8bc7c09a71a3289c76a9406aa21
 
 ### Connect with me:
 
