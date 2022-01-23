@@ -3,6 +3,7 @@
 <a href="https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876">
     <img src="https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg" />
 </a>
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mohanponnapati?style=social">
 <br />
 </p>
 
@@ -11,15 +12,14 @@
 ### Hi there, I'm AlphaInfamous - 👋 
 
 - 🌱 I’m currently learning everything i get my hands on🤣
-<<<<<<< HEAD
 - 🥅 2022 Goals: Aws & Azure certifications, Bringing site online.
 
 
 ### Connect with me:
 
-[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="alpha.infamous/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="alpha.infamous/ | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />][instagram]
 
 <br />
 
