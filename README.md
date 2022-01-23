@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="hhttps://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
+[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
 [<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="alpha.infamous/ | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />][instagram]
 
