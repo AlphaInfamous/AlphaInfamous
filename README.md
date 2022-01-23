@@ -4,6 +4,7 @@
     <img src="https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg" />
 </a>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AlphaInfamous?style=social">
+<img alt="GitHub deployments" src="https://img.shields.io/github/deployments/AlphaInfamous/github-stats/production?label=Github%20Stats%20API%20Deployment&logo=github&style=plastic">
 <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fcronusinc.org">
 <br />
 </p>
