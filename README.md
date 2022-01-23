@@ -3,7 +3,8 @@
 <a href="https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876">
     <img src="https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg" />
 </a>
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mohanponnapati?style=social">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AlphaInfamous?style=social">
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fcronusinc.org">
 <br />
 </p>
 
@@ -17,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="hhttps://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
 [<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="alpha.infamous/ | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />][instagram]
 
@@ -25,16 +26,19 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
+<img align="left" alt="Ruby" width="26px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+<img align="left" alt="Bash" width="26px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" />
 
 <br />
 
