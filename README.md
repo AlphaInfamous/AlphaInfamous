@@ -38,6 +38,7 @@
 <img align="left" alt="Bash" width="26px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" />
+<br />
 <img align="left" alt="Docker" width="26px" src="https://worldvectorlogo.com/download/docker-3.svg" />
 <img align="left" alt="Portainer" width="26px" src="https://worldvectorlogo.com/download/portainer.svg" />
 <img align="left" alt="Kubernetes" width="26px" src="https://worldvectorlogo.com/download/kubernets.svg" />
