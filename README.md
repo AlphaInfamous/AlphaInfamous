@@ -19,7 +19,7 @@
 
 [<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
 [<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="alpha.infamous | Instagram" width="22px" src="https://worldvectorlogo.com/download/instagram-2016-5.svg" />][instagram]
+[<img align="left" alt="alpha.infamous | Instagram" width="26px" src="https://worldvectorlogo.com/download/instagram-2016-5.svg" />][instagram]
 
 <br />
 
@@ -51,5 +51,5 @@
 <img align="left" alt="AlphaInfamous GitHub Stats" src="https://github-stats-alpha-one.vercel.app/api?username=AlphaInfamous&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 
 [twitter]: https://twitter.com/iAlphaInfamous
-[instagram]: https://instagram.com/alpha.infamous
+[instagram]: https://www.instagram.com/alpha.infamous
 [linkedin]: https://www.linkedin.com/in/maneeshvadlapatla
