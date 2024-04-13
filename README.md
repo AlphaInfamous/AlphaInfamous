@@ -10,11 +10,6 @@
 
 ### [![Twitter Follow](https://img.shields.io/twitter/follow/iAlphaInfamous?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAlphaInfamous&screen_name=iAlphaInfamous)
 
-### Hi there, I'm AlphaInfamous - 👋
-
-- 🌱 I’m currently learning everything i get my hands on🤣
-- 🥅 2022 Goals: Aws & Azure certifications.
-
 ### Connect with me
 
 [<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
