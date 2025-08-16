@@ -1,50 +1,64 @@
-<p align="left">
-<a href="https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876">
-    <img src="https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg" />
-</a>
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AlphaInfamous?style=social">
-<img alt="GitHub deployments" src="https://img.shields.io/github/deployments/AlphaInfamous/github-stats/production?label=Github%20Stats%20API%20Deployment&logo=github&style=plastic">
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fcronusinc.org">
-<br />
-</p>
+# Hey there! 👋 I'm Maneesh
 
-### [![Twitter Follow](https://img.shields.io/twitter/follow/iAlphaInfamous?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAlphaInfamous&screen_name=iAlphaInfamous)
+**`Digital Craftsman (Innovator/Builder/Vision Executor)`**
 
-### Connect with me
+I'm a tech innovator who transforms ideas into digital reality. I bridge the gap between concept and code, turning creative visions into functional solutions. When inspiration strikes, I build it.
 
-[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
-[<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="alpha.infamous | Instagram" width="22px" src="https://worldvectorlogo.com/logos/instagram-2016-5.svg" />][instagram]
+---
 
-<br />
+### 📊 Stats
 
-### Languages and Tools
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaInfamous&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</div>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-<img align="left" alt="Ruby" width="26px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
-<img align="left" alt="Bash" width="26px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" />
-<img align="left" alt="Docker" width="26px" src="https://worldvectorlogo.com/logos/docker-3.svg" />
-<img align="left" alt="Portainer" width="26px" src="https://worldvectorlogo.com/logos/portainer.svg" />
-<img align="left" alt="Kubernetes" width="26px" src="https://worldvectorlogo.com/logos/kubernets.svg" />
-<img align="left" alt="Rancher" width="26px" src="https://worldvectorlogo.com/logos/rancher.svg" />
-<img align="left" alt="Traefik" width="26px" src="https://worldvectorlogo.com/logos/traefik-1.svg" />
-<img align="left" alt="Etcd" width="26px" src="https://worldvectorlogo.com/logos/etcd-1.svg" />
-<br />
+---
 
-### 📕 GitHub Stats
+### 🚀 Recent Projects
 
-<img align="left" alt="AlphaInfamous GitHub Stats" src="https://github-stats-alpha-one.vercel.app/api?username=AlphaInfamous&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- You can replace these with your actual repositories -->
+<div align="center">
+  <a href="https://github.com/AlphaInfamous/github-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaInfamous&repo=github-stats&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-[twitter]: https://twitter.com/iAlphaInfamous
-[instagram]: https://www.instagram.com/alpha.infamous
-[linkedin]: https://www.linkedin.com/in/maneeshvadlapatla
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaInfamous&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+### 🌐 Connect with me
+
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iAlphaInfamous)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maneeshvadlapatla)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alpha.infamous)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cronusinc.org)
+
+</div>
+
+---
+
+### 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlphaInfamous&style=for-the-badge&color=blue" alt="Profile views">
+</div>
+
+<div align="center">
+  <h3>Thanks for visiting! 🚀</h3>
+  <p><em>Happy coding!</em> 💻</p>
+</div>
